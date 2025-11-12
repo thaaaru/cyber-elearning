@@ -100,6 +100,14 @@ Conduct a complete cybersecurity assessment and report findings professionally. 
 
 ---
 
+### [[Cyber Security Batch 02 - eLearning/12. Cybersecurity and AI/12. Cybersecurity and AI|12. Cybersecurity and AI]]
+
+Explore the intersection of artificial intelligence and cybersecurity. Learn how AI augments both offensive and defensive security capabilities, understand adversarial machine learning attacks, and examine the future impact of AI on the cybersecurity profession.
+
+**Keywords:** AI threat detection, SOAR, adversarial ML, AI-driven attacks, AI ethics in security
+
+---
+
 ## Program Outcomes
 
 - Perform professional, ethical security testing aligned with global standards
