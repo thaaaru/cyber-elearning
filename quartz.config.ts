@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "thaaaru.github.io/cyber-elearning",
-    ignorePatterns: ["private", "templates", ".obsidian", "gemini-scribe", "quartz-temp"],
+    ignorePatterns: ["private", "templates", ".obsidian", "gemini-scribe", "quartz-temp", "docs"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
