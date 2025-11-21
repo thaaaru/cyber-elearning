@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "thaaaru.github.io/cyber-elearning",
+    baseUrl: "https://thaaaru.github.io/cyber-elearning",
     ignorePatterns: ["private", "templates", ".obsidian", "gemini-scribe", "quartz-temp", "docs"],
     defaultDateType: "modified",
     theme: {
