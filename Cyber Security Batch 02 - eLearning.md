@@ -5,7 +5,7 @@
 
 **Aligned with CEH v13 | CompTIA Security+ | NIST Cybersecurity Framework**
 
-**Duration: 40 Hours | Format: Practical + Instructor-Led | Level: Beginner to Job-Ready**
+**Duration: 40 Hours (Blended Learning) | Format: Practical Hands-On Labs + Instructor-Led Sessions | Level: Beginner to Job-Ready**
 
 © 2025 Tharaka Mahabage | Cybersecurity Architect | Director – SL CERT
 
@@ -73,9 +73,17 @@ Understand how security teams detect and respond to real-world cyber incidents. 
 
 Conduct a complete cybersecurity assessment and report findings professionally. Map your next certifications and career direction — SOC Analyst, Security Engineer, or CEH. Keywords: Recon-to-report, vulnerability lifecycle, SOC readiness, job roadmap.
 
+----------------------
+
 **11. Bug Bounty & Responsible Disclosure**
 
 Learn how global companies reward ethical hackers for finding vulnerabilities. Understand disclosure policies, report writing, and communication ethics. Keywords: Bug bounty, disclosure process, report validation, platform standards.
+
+----------------------
+
+**12. Cybersecurity and AI**
+
+Explore the intersection of artificial intelligence and cybersecurity. Understand AI-powered threat detection, adversarial attacks, and the future of security. Keywords: AI threat detection, adversarial machine learning, SOAR, machine learning security.
 
 ----------------------
 

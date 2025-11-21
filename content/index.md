@@ -1,116 +1,92 @@
 ---
-title: Cybersecurity Essentials - Course Content
+title: Cyber Security eLearning
 ---
 
-# Cybersecurity Essentials: Course Content (Batch 02)
+# Welcome to Cyber Security eLearning
 
-**Practical Cybersecurity & Ethical Hacking Foundations**
-
-**Aligned with CEH v13 | CompTIA Security+ | NIST Cybersecurity Framework**
-
-**Duration: 40 Hours | Format: Practical + Instructor-Led | Level: Beginner to Job-Ready**
-
-© 2025 Tharaka Mahabage | Cybersecurity Architect | Director – SL CERT
+> **Practical Cybersecurity & Ethical Hacking Foundations**
+>
+> A comprehensive, hands-on course aligned with CEH v13, CompTIA Security+, and NIST Cybersecurity Framework standards.
 
 ---
 
-This practical, hands-on course provides a complete introduction to modern cybersecurity and ethical hacking. Covering global standards such as CEH v13, CompTIA Security+, and NIST Cybersecurity Framework, it guides learners through real-world scenarios in threat detection, vulnerability assessment, system hardening, and incident response. Through hands-on labs and defense simulations, students gain the technical and analytical skills needed to secure systems and networks—preparing them for entry-level roles in cybersecurity, SOC operations, or ethical hacking.
+## 📚 About This Course
+
+This practical, hands-on course provides a complete introduction to modern cybersecurity and ethical hacking. Through real-world scenarios in threat detection, vulnerability assessment, system hardening, and incident response, you'll gain the technical and analytical skills needed to secure systems and networks.
+
+**Perfect for:** Cybersecurity beginners, SOC operations aspiring analysts, and ethical hacking enthusiasts seeking job-ready skills.
 
 ---
 
-## Course Modules
+## 📖 Course Modules (12 Comprehensive Units)
 
-### [[Cyber Security Batch 02 - eLearning/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals|1. Cybersecurity Fundamentals]]
+### Foundation & Analysis (Modules 1-4)
+1. **[[Cyber Security Batch 02 - eLearning/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals|Cybersecurity Fundamentals]]** - CIA Triad, threat actors, kill chain, risk assessment
+2. **[[Cyber Security Batch 02 - eLearning/2. Network Security & Monitoring/2. Network Security & Monitoring|Network Security & Monitoring]]** - Wireshark, tcpdump, traffic analysis, IDS/IPS
+3. **[[Cyber Security Batch 02 - eLearning/3. Information Gathering & Reconnaissance/3. Information Gathering & Reconnaissance|Information Gathering & Reconnaissance]]** - OSINT, footprinting, passive recon techniques
+4. **[[Cyber Security Batch 02 - eLearning/4. Vulnerability Assessment & Risk Prioritization/4. Vulnerability Assessment & Risk Prioritization|Vulnerability Assessment & Risk Prioritization]]** - Nmap, Nessus, CVE mapping, risk scoring
 
-Learn the basics of cyber defence — from how attacks happen to how organizations protect their data. Students explore ethical hacking principles, threat types, and compliance awareness through local and global case examples.
+### Defense & Hardening (Modules 5-7)
+5. **[[Cyber Security Batch 02 - eLearning/5. Operating System Security & Privilege Management/5. Operating System Security & Privilege Management|OS Security & Privilege Management]]** - Windows/Linux hardening, access control, audit logs
+6. **[[Cyber Security Batch 02 - eLearning/6. Web & Application Security Essentials/6. Web & Application Security Essentials|Web & Application Security]]** - OWASP Top 10, XSS, SQLi, API security
+7. **[[Cyber Security Batch 02 - eLearning/7. System Hardening & Security Monitoring/7. System Hardening & Security Monitoring|System Hardening & Monitoring]]** - CIS Benchmarks, patch management, log correlation
 
-**Keywords:** Threat landscape, CIA triad, risk posture, cyber hygiene
+### Cloud & Incident Response (Modules 8-10)
+8. **[[Cyber Security Batch 02 - eLearning/8. Cloud Security Fundamentals/8. Cloud Security Fundamentals|Cloud Security Fundamentals]]** - AWS/Azure security, IAM, cloud misconfigurations
+9. **[[Cyber Security Batch 02 - eLearning/9. Incident Response & Reporting/9. Incident Response & Reporting|Incident Response & Reporting]]** - NIST 800-61, IOC identification, containment, forensics
+10. **[[Cyber Security Batch 02 - eLearning/10. Security Assessment & Career Path Planning/10. Security Assessment & Career Path Planning|Security Assessment & Career Planning]]** - Pentest reporting, portfolio building, certifications
 
----
-
-### [[Cyber Security Batch 02 - eLearning/2. Network Security & Monitoring/2. Network Security & Monitoring|2. Network Security & Monitoring]]
-
-Understand how data travels through a network and how to detect suspicious activity. Hands-on practice analyzing traffic and identifying intrusion patterns.
-
-**Keywords:** Wireshark, tcpdump, network forensics, firewall tuning
-
----
-
-### [[Cyber Security Batch 02 - eLearning/3. Information Gathering & Reconnaissance/3. Information Gathering & Reconnaissance|3. Information Gathering & Reconnaissance]]
-
-Learn to perform responsible information gathering using publicly available data. Students apply OSINT techniques and identify exposed digital assets safely.
-
-**Keywords:** Footprinting, WHOIS, DNS lookup, OSINT automation
+### Advanced Topics (Modules 11-12)
+11. **[[Cyber Security Batch 02 - eLearning/11. Bug Bounty & Responsible Disclosure/11. Bug Bounty & Responsible Disclosure|Bug Bounty & Responsible Disclosure]]** - Bug bounty platforms, disclosure ethics, reward management
+12. **[[Cyber Security Batch 02 - eLearning/12. Cybersecurity and AI/12. Cybersecurity and AI|Cybersecurity & AI]]** - AI threat detection, adversarial ML, SOAR, machine learning security
 
 ---
 
-### [[Cyber Security Batch 02 - eLearning/4. Vulnerability Assessment & Risk Prioritization/4. Vulnerability Assessment & Risk Prioritization|4. Vulnerability Assessment & Risk Prioritization]]
+## 📚 Learning Path Overview
 
-Find and evaluate security weaknesses using real tools. Understand how to interpret scan results, rate risks, and communicate fixes clearly.
-
-**Keywords:** Nmap, Nessus, CVE mapping, remediation planning
-
----
-
-### [[Cyber Security Batch 02 - eLearning/5. Operating System Security & Privilege Management/5. Operating System Security & Privilege Management|5. Operating System Security & Privilege Management]]
-
-Secure Windows and Linux systems through access control and auditing. Apply least-privilege concepts, review logs, and enforce user policies.
-
-**Keywords:** Privilege audit, log review, hardening, access management
+```
+Start → Fundamentals → Analysis → Defense → Cloud/Response → Advanced → Career
+  ↓
+Module 1    Modules 2-4   Modules 5-7   Modules 8-10   Modules 11-12
+Concepts   &            &            &             &
+Threat    Intelligence  Hardening    Incident       Job-Ready
+Landscape                            Management     Skills
+```
 
 ---
 
-### [[Cyber Security Batch 02 - eLearning/6. Web & Application Security Essentials/6. Web & Application Security Essentials|6. Web & Application Security Essentials]]
+## 🎯 What You'll Learn
 
-Understand common website and API vulnerabilities and how to prevent them. Students test safely within a lab setup and learn secure coding principles.
-
-**Keywords:** OWASP Top 10, XSS, SQLi, input validation, secure coding
-
----
-
-### [[Cyber Security Batch 02 - eLearning/7. System Hardening & Security Monitoring/7. System Hardening & Security Monitoring|7. System Hardening & Security Monitoring]]
-
-Reduce attack surfaces and detect misuse through continuous monitoring. Students implement configuration baselines and basic alerting techniques.
-
-**Keywords:** CIS Benchmarks, patch management, log correlation, SIEM basics
+- ✓ Perform professional, ethical security testing aligned with global standards
+- ✓ Detect and mitigate vulnerabilities using real cybersecurity tools
+- ✓ Apply ISO 27001, NIST CSF, and SOC 2 controls in practical situations
+- ✓ Analyze network traffic and identify malicious activity
+- ✓ Conduct security assessments and write professional reports
+- ✓ Respond to incidents following established frameworks
+- ✓ Secure cloud infrastructure and manage access controls
+- ✓ Build a portfolio that demonstrates hands-on, job-ready cybersecurity capability
 
 ---
 
-### [[Cyber Security Batch 02 - eLearning/8. Cloud Security Fundamentals/8. Cloud Security Fundamentals|8. Cloud Security Fundamentals]]
+## 💼 Career Outcomes
 
-Explore how to secure accounts and data in cloud environments like AWS and Azure. Students learn access control, encryption, and configuration best practices.
-
-**Keywords:** IAM, cloud misconfiguration, data encryption, cloud audit
-
----
-
-### [[Cyber Security Batch 02 - eLearning/9. Incident Response & Reporting/9. Incident Response & Reporting|9. Incident Response & Reporting]]
-
-Understand how security teams detect and respond to real-world cyber incidents. Students follow the NIST process: Detect → Contain → Recover → Review.
-
-**Keywords:** IOC identification, containment, forensic triage, NIST 800-61
+Upon completion, you'll be prepared for roles including:
+- **SOC Analyst (Tier 1/2)** - Monitoring, alerting, incident triage
+- **Security Engineer** - Implementing and maintaining security controls
+- **Penetration Tester** - Authorized security testing
+- **System Administrator** - Security-focused infrastructure management
+- **Compliance Officer** - Security and regulatory compliance
 
 ---
 
-### [[Cyber Security Batch 02 - eLearning/10. Security Assessment & Career Path Planning/10. Security Assessment & Career Path Planning|10. Security Assessment & Career Path Planning]]
+## 📋 Quick Reference
 
-Conduct a complete cybersecurity assessment and report findings professionally. Map your next certifications and career direction — SOC Analyst, Security Engineer, or CEH.
-
-**Keywords:** Recon-to-report, vulnerability lifecycle, SOC readiness, job roadmap
-
----
-
-### [[Cyber Security Batch 02 - eLearning/12. Cybersecurity and AI/12. Cybersecurity and AI|12. Cybersecurity and AI]]
-
-Explore the intersection of artificial intelligence and cybersecurity. Learn how AI augments both offensive and defensive security capabilities, understand adversarial machine learning attacks, and examine the future impact of AI on the cybersecurity profession.
-
-**Keywords:** AI threat detection, SOAR, adversarial ML, AI-driven attacks, AI ethics in security
+- **Duration:** 40 Hours (Blended Learning)
+- **Format:** Practical Hands-On Labs + Instructor-Led Sessions
+- **Level:** Beginner to Job-Ready
+- **Certifications Aligned:** CEH v13, CompTIA Security+, NIST CSF, OSCP (advanced)
+- **Prerequisites:** Basic networking and system administration knowledge recommended
 
 ---
 
-## Program Outcomes
-
-- Perform professional, ethical security testing aligned with global standards
-- Detect and mitigate vulnerabilities using real cybersecurity tools
-- Apply ISO 27001, NIST CSF, and SOC 2 controls in practical situations
-- Build a portfolio that demonstrates hands-on, job-ready cybersecurity capability
+© 2025 **Tharaka Mahabage** | Cybersecurity Architect | Director – SL CERT
