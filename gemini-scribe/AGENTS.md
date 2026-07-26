@@ -4,18 +4,18 @@ This file provides context about this Obsidian vault for AI agents.
 
 ## Vault Overview
 
-This vault is a personal knowledge base for tharaka, created to organize notes and materials for an eLearning course. The primary focus is on the "Cyber Security Batch 02" course, with content structured to follow the curriculum.
+This vault is a personal knowledge base for tharaka, created to organize notes and materials for a course. The primary focus is on the "Cyber Security" course, with content structured to follow the curriculum.
 
 ## Organization
 
-The vault is organized hierarchically, mirroring the structure of an academic course. A main folder, `Cyber Security Batch 02 - eLearning`, likely contains all course-related materials. Sub-folders are used for specific modules, such as `1. Cybersecurity Fundamentals`.
+The vault is organized hierarchically, mirroring the structure of an academic course. A main folder, `Cyber Security`, likely contains all course-related materials. Sub-folders are used for specific modules, such as `1. Cybersecurity Fundamentals`.
 
 This numbered naming convention suggests a sequential, topic-based organization where notes are grouped by module in the order they are presented. The use of file names beginning with `//` seems to be a specific user convention, possibly for index notes or folder notes.
 
 ## Key Topics
 
 - Cybersecurity
-- eLearning and Course Notes
+- Course Notes
 - Cybersecurity Fundamentals
 
 ## User Preferences

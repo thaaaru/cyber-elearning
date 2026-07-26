@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Cyber Security eLearning",
+    pageTitle: "Cyber Security",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://thaaaru.github.io/cyber-elearning",
+    baseUrl: "https://thaaaru.github.io/cyber-sec",
     ignorePatterns: ["private", "templates", ".obsidian", "gemini-scribe", "quartz-temp", "docs"],
     defaultDateType: "modified",
     theme: {

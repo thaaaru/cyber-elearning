@@ -1,6 +1,6 @@
-# Cyber Security eLearning - Digital Garden
+# Cyber Security - Digital Garden
 
-This repository contains a Cyber Security eLearning course vault set up with Quartz v4 for publishing as a Digital Garden.
+This repository contains a Cyber Security course vault set up with Quartz v4 for publishing as a Digital Garden.
 
 ## Quick Start
 
@@ -22,7 +22,7 @@ This repository contains a Cyber Security eLearning course vault set up with Qua
 
 - Edit your markdown files in the `content/` directory
 - The site will automatically rebuild when using `npm run serve`
-- Your Obsidian vault content is in `content/Cyber Security Batch 02 - eLearning/`
+- Your Obsidian vault content is in `content/Cyber Security/`
 
 ## Configuration
 
@@ -86,7 +86,7 @@ Edit `quartz.layout.ts` to customize the page layout and components.
 .
 ├── content/                    # Your markdown content
 │   ├── index.md               # Home page
-│   └── Cyber Security Batch 02 - eLearning/
+│   └── Cyber Security/
 ├── quartz/                    # Quartz core files
 ├── docs/                      # Quartz documentation
 ├── public/                    # Generated static site (git-ignored)
