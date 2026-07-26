@@ -20,7 +20,7 @@ context_files:
   - "[[Defense in Depth]]"
   - "[[Zero Trust Architecture]]"
   - "[[Risk Assessment]]"
-  - "[[Cyber Security]]"
+  - "[[cyber-security]]"
   - "[[12. Cybersecurity and AI]]"
   - "[[AI in Threat Detection]]"
   - "[[AI-Powered Security Orchestration (SOAR)]]"
@@ -80,7 +80,7 @@ metadata:
 > | File Version | unknown |
 
 > [!assistant]+
-> Of course. I have just created the following four folders inside the &#x60;Cyber Security&#x60; directory to organize the major topics for your online training:
+> Of course. I have just created the following four folders inside the &#x60;cyber-security&#x60; directory to organize the major topics for your online training:
 > 
 > *   &#x60;1. Cybersecurity Fundamentals&#x60;
 > *   &#x60;2. Network Security&#x60;
@@ -256,16 +256,16 @@ metadata:
 > 
 > Here is a list of the notes that have been created:
 > 
-> *   [[Cyber Security/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals]]
-> *   [[Cyber Security/2. Network Security &amp; Monitoring/2. Network Security &amp; Monitoring]]
-> *   [[Cyber Security/3. Information Gathering &amp; Reconnaissance/3. Information Gathering &amp; Reconnaissance]]
-> *   [[Cyber Security/4. Vulnerability Assessment &amp; Risk Prioritization/4. Vulnerability Assessment &amp; Risk Prioritization]]
-> *   [[Cyber Security/5. Operating System Security &amp; Privilege Management/5. Operating System Security &amp; Privilege Management]]
-> *   [[Cyber Security/6. Web &amp; Application Security Essentials/6. Web &amp; Application Security Essentials]]
-> *   [[Cyber Security/7. System Hardening &amp; Security Monitoring/7. System Hardening &amp; Security Monitoring]]
-> *   [[Cyber Security/8. Cloud Security Fundamentals/8. Cloud Security Fundamentals]]
-> *   [[Cyber Security/9. Incident Response &amp; Reporting/9. Incident Response &amp; Reporting]]
-> *   [[Cyber Security/10. Security Assessment &amp; Career Path Planning/10. Security Assessment &amp; Career Path Planning]]
+> *   [[cyber-security/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals]]
+> *   [[cyber-security/2. Network Security &amp; Monitoring/2. Network Security &amp; Monitoring]]
+> *   [[cyber-security/3. Information Gathering &amp; Reconnaissance/3. Information Gathering &amp; Reconnaissance]]
+> *   [[cyber-security/4. Vulnerability Assessment &amp; Risk Prioritization/4. Vulnerability Assessment &amp; Risk Prioritization]]
+> *   [[cyber-security/5. Operating System Security &amp; Privilege Management/5. Operating System Security &amp; Privilege Management]]
+> *   [[cyber-security/6. Web &amp; Application Security Essentials/6. Web &amp; Application Security Essentials]]
+> *   [[cyber-security/7. System Hardening &amp; Security Monitoring/7. System Hardening &amp; Security Monitoring]]
+> *   [[cyber-security/8. Cloud Security Fundamentals/8. Cloud Security Fundamentals]]
+> *   [[cyber-security/9. Incident Response &amp; Reporting/9. Incident Response &amp; Reporting]]
+> *   [[cyber-security/10. Security Assessment &amp; Career Path Planning/10. Security Assessment &amp; Career Path Planning]]
 > 
 > Each note contains the checklist of subtasks you provided. You can now go into each one to add more granular details, notes, and track your progress.
 > 
@@ -295,7 +295,7 @@ metadata:
 > [!assistant]+
 > My apologies for any confusion. I successfully created notes for all 10 modules you provided in your last message.
 > 
-> I believe you&#x27;re noticing that the main course outline in [[Cyber Security]] lists 11 modules, and the last one, **11. Bug Bounty &amp; Responsible Disclosure**, was not included in the list you sent over for me to process.
+> I believe you&#x27;re noticing that the main course outline in [[cyber-security]] lists 11 modules, and the last one, **11. Bug Bounty &amp; Responsible Disclosure**, was not included in the list you sent over for me to process.
 > 
 > Would you like me to create a note for that 11th module as well? I can add some starter subtasks based on the course description.
 
@@ -406,13 +406,13 @@ metadata:
 > If you approve of this detailed approach, I will:
 > 1.  **Update the content** of the &#x60;[[1. Cybersecurity Fundamentals]]&#x60; note with the granular outline above.
 > 2.  **Create the following new (but currently empty) notes** to serve as placeholders for you to fill in later. This will make the links in the main note active immediately:
->     -   &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/CIA Triad.md&#x60;
->     -   &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/Threat Actors.md&#x60;
->     -   &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/Cyber Kill Chain.md&#x60;
->     -   &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/MITRE ATT&amp;CK Framework.md&#x60;
->     -   &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/Defense in Depth.md&#x60;
->     -   &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/Zero Trust Architecture.md&#x60;
->     -   &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/Risk Assessment.md&#x60;
+>     -   &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/CIA Triad.md&#x60;
+>     -   &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/Threat Actors.md&#x60;
+>     -   &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/Cyber Kill Chain.md&#x60;
+>     -   &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/MITRE ATT&amp;CK Framework.md&#x60;
+>     -   &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/Defense in Depth.md&#x60;
+>     -   &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/Zero Trust Architecture.md&#x60;
+>     -   &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/Risk Assessment.md&#x60;
 > 
 > This will create a solid, interconnected foundation for your first module. We can then apply this same detailed method to the other modules.
 > 
@@ -456,8 +456,8 @@ metadata:
 > [!assistant]+
 > Excellent. I have executed the plan.
 > 
-> 1.  I updated the main note for the first module, [[Cyber Security/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals]], with the detailed, granular task list we discussed.
-> 2.  I created a new sub-folder here: &#x60;Cyber Security/1. Cybersecurity Fundamentals/Concepts/&#x60;.
+> 1.  I updated the main note for the first module, [[cyber-security/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals]], with the detailed, granular task list we discussed.
+> 2.  I created a new sub-folder here: &#x60;cyber-security/1. Cybersecurity Fundamentals/Concepts/&#x60;.
 > 3.  Inside this new folder, I created the following notes and linked them from the main module note:
 >     *   [[CIA Triad]]
 >     *   [[Threat Actors]]
@@ -629,8 +629,8 @@ metadata:
 > 
 > I have now created the &#x60;Concepts&#x60; folder for Module 2. I will now create the rest of the files.I have successfully updated your notes for **Module 2: Network Security &amp; Monitoring**.
 > 
-> 1.  The main note, [[Cyber Security/2. Network Security &amp; Monitoring/2. Network Security &amp; Monitoring]], has been updated with the detailed, granular task list.
-> 2.  A new sub-folder has been created at &amp;#x60;Cyber Security/2. Network Security &amp; Monitoring/Concepts/&amp;#x60;.
+> 1.  The main note, [[cyber-security/2. Network Security &amp; Monitoring/2. Network Security &amp; Monitoring]], has been updated with the detailed, granular task list.
+> 2.  A new sub-folder has been created at &amp;#x60;cyber-security/2. Network Security &amp; Monitoring/Concepts/&amp;#x60;.
 > 3.  The following new notes have been created within that folder and are now linked from the main module note:
 >     *   [[OSI and TCP/IP Models]]
 >     *   [[Wireshark Fundamentals]]
@@ -798,7 +798,7 @@ metadata:
 > 
 > I have successfully updated your notes for **Module 3: Information Gathering &amp; Reconnaissance**.
 > 
-> 1.  The main note, [[Cyber Security/3. Information Gathering &amp; Reconnaissance/3. Information Gathering &amp; Reconnaissance]], has been updated with the detailed plan.
+> 1.  The main note, [[cyber-security/3. Information Gathering &amp; Reconnaissance/3. Information Gathering &amp; Reconnaissance]], has been updated with the detailed plan.
 > 2.  The &#x60;Concepts&#x60; folder has been created within the Module 3 directory.
 > 3.  The following 13 new notes have been created in the &#x60;Concepts&#x60; folder and are linked from the main module note:
 >     *   [[Passive vs. Active Reconnaissance]]
@@ -950,8 +950,8 @@ metadata:
 > 
 > I&#x27;ll start by creating the &#x60;Concepts&#x60; folder and then proceed to update the main note and create all the linked placeholder notes. This will take a few moments.I have successfully updated your notes for **Module 4: Vulnerability Assessment &amp; Risk Prioritization**.
 > 
-> 1.  The main note, [[Cyber Security/4. Vulnerability Assessment &amp; Risk Prioritization/4. Vulnerability Assessment &amp; Risk Prioritization]], has been updated with the detailed, granular task list.
-> 2.  A new sub-folder has been created at &#x60;Cyber Security/4. Vulnerability Assessment &amp; Risk Prioritization/Concepts/&#x60;.
+> 1.  The main note, [[cyber-security/4. Vulnerability Assessment &amp; Risk Prioritization/4. Vulnerability Assessment &amp; Risk Prioritization]], has been updated with the detailed, granular task list.
+> 2.  A new sub-folder has been created at &#x60;cyber-security/4. Vulnerability Assessment &amp; Risk Prioritization/Concepts/&#x60;.
 > 3.  The following 9 new notes have been created within that folder and are now linked from the main module note:
 >     *   [[Nmap]]
 >     *   [[Nessus]]
@@ -1059,11 +1059,11 @@ metadata:
 > 
 > ### Action Plan:
 > 
-> 1.  **Create a new folder** for the module: &#x60;Cyber Security/12. Cybersecurity and AI/&#x60;.
+> 1.  **Create a new folder** for the module: &#x60;cyber-security/12. Cybersecurity and AI/&#x60;.
 > 2.  **Create the main note** for the module with a detailed outline exploring AI&#x27;s dual role in offense and defense, as well as the new challenges it presents.
 > 3.  **Create a &#x60;Concepts&#x60; sub-folder** for the new module.
 > 4.  **Create placeholder notes** for the key AI-related concepts.
-> 5.  **Update the main course file**, &#x60;[[Cyber Security]]&#x60;, to include this new module in the curriculum list.
+> 5.  **Update the main course file**, &#x60;[[cyber-security]]&#x60;, to include this new module in the curriculum list.
 > 
 > I will now proceed with creating these files and updating the course structure.
 > 
@@ -1073,7 +1073,7 @@ metadata:
 > 
 > I have successfully added the new module on Cybersecurity and AI to your course.
 > 
-> 1.  A new folder and main note have been created: [[Cyber Security/12. Cybersecurity and AI/12. Cybersecurity and AI]].
+> 1.  A new folder and main note have been created: [[cyber-security/12. Cybersecurity and AI/12. Cybersecurity and AI]].
 > 2.  The main note has been populated with the following detailed structure:
 > 
 >     # 12. Cybersecurity and AI: The Next Frontier
@@ -1118,7 +1118,7 @@ metadata:
 >     *   [[Impact of AI on Cybersecurity Careers]]
 >     *   [[AI Ethics and Governance in Security]]
 > 
-> 4.  Finally, I have updated the main [[Cyber Security]] note to include a link to this new 12th module, ensuring your course outline is complete.
+> 4.  Finally, I have updated the main [[cyber-security]] note to include a link to this new 12th module, ensuring your course outline is complete.
 > 
 > Your curriculum is now fully updated with this cutting-edge topic. What would you like to do next?
 

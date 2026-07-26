@@ -21,24 +21,24 @@ This practical, hands-on course provides a complete introduction to modern cyber
 ## 📖 Course Modules (12 Comprehensive Units)
 
 ### Foundation & Analysis (Modules 1-4)
-1. **[[Cyber Security/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals|Cybersecurity Fundamentals]]** - CIA Triad, threat actors, kill chain, risk assessment
-2. **[[Cyber Security/2. Network Security & Monitoring/2. Network Security & Monitoring|Network Security & Monitoring]]** - Wireshark, tcpdump, traffic analysis, IDS/IPS
-3. **[[Cyber Security/3. Information Gathering & Reconnaissance/3. Information Gathering & Reconnaissance|Information Gathering & Reconnaissance]]** - OSINT, footprinting, passive recon techniques
-4. **[[Cyber Security/4. Vulnerability Assessment & Risk Prioritization/4. Vulnerability Assessment & Risk Prioritization|Vulnerability Assessment & Risk Prioritization]]** - Nmap, Nessus, CVE mapping, risk scoring
+1. **[[cyber-security/1. Cybersecurity Fundamentals/1. Cybersecurity Fundamentals|Cybersecurity Fundamentals]]** - CIA Triad, threat actors, kill chain, risk assessment
+2. **[[cyber-security/2. Network Security & Monitoring/2. Network Security & Monitoring|Network Security & Monitoring]]** - Wireshark, tcpdump, traffic analysis, IDS/IPS
+3. **[[cyber-security/3. Information Gathering & Reconnaissance/3. Information Gathering & Reconnaissance|Information Gathering & Reconnaissance]]** - OSINT, footprinting, passive recon techniques
+4. **[[cyber-security/4. Vulnerability Assessment & Risk Prioritization/4. Vulnerability Assessment & Risk Prioritization|Vulnerability Assessment & Risk Prioritization]]** - Nmap, Nessus, CVE mapping, risk scoring
 
 ### Defense & Hardening (Modules 5-7)
-5. **[[Cyber Security/5. Operating System Security & Privilege Management/5. Operating System Security & Privilege Management|OS Security & Privilege Management]]** - Windows/Linux hardening, access control, audit logs
-6. **[[Cyber Security/6. Web & Application Security Essentials/6. Web & Application Security Essentials|Web & Application Security]]** - OWASP Top 10, XSS, SQLi, API security
-7. **[[Cyber Security/7. System Hardening & Security Monitoring/7. System Hardening & Security Monitoring|System Hardening & Monitoring]]** - CIS Benchmarks, patch management, log correlation
+5. **[[cyber-security/5. Operating System Security & Privilege Management/5. Operating System Security & Privilege Management|OS Security & Privilege Management]]** - Windows/Linux hardening, access control, audit logs
+6. **[[cyber-security/6. Web & Application Security Essentials/6. Web & Application Security Essentials|Web & Application Security]]** - OWASP Top 10, XSS, SQLi, API security
+7. **[[cyber-security/7. System Hardening & Security Monitoring/7. System Hardening & Security Monitoring|System Hardening & Monitoring]]** - CIS Benchmarks, patch management, log correlation
 
 ### Cloud & Incident Response (Modules 8-10)
-8. **[[Cyber Security/8. Cloud Security Fundamentals/8. Cloud Security Fundamentals|Cloud Security Fundamentals]]** - AWS/Azure security, IAM, cloud misconfigurations
-9. **[[Cyber Security/9. Incident Response & Reporting/9. Incident Response & Reporting|Incident Response & Reporting]]** - NIST 800-61, IOC identification, containment, forensics
-10. **[[Cyber Security/10. Security Assessment & Career Path Planning/10. Security Assessment & Career Path Planning|Security Assessment & Career Planning]]** - Pentest reporting, portfolio building, certifications
+8. **[[cyber-security/8. Cloud Security Fundamentals/8. Cloud Security Fundamentals|Cloud Security Fundamentals]]** - AWS/Azure security, IAM, cloud misconfigurations
+9. **[[cyber-security/9. Incident Response & Reporting/9. Incident Response & Reporting|Incident Response & Reporting]]** - NIST 800-61, IOC identification, containment, forensics
+10. **[[cyber-security/10. Security Assessment & Career Path Planning/10. Security Assessment & Career Path Planning|Security Assessment & Career Planning]]** - Pentest reporting, portfolio building, certifications
 
 ### Advanced Topics (Modules 11-12)
-11. **[[Cyber Security/11. Bug Bounty & Responsible Disclosure/11. Bug Bounty & Responsible Disclosure|Bug Bounty & Responsible Disclosure]]** - Bug bounty platforms, disclosure ethics, reward management
-12. **[[Cyber Security/12. Cybersecurity and AI/12. Cybersecurity and AI|Cybersecurity & AI]]** - AI threat detection, adversarial ML, SOAR, machine learning security
+11. **[[cyber-security/11. Bug Bounty & Responsible Disclosure/11. Bug Bounty & Responsible Disclosure|Bug Bounty & Responsible Disclosure]]** - Bug bounty platforms, disclosure ethics, reward management
+12. **[[cyber-security/12. Cybersecurity and AI/12. Cybersecurity and AI|Cybersecurity & AI]]** - AI threat detection, adversarial ML, SOAR, machine learning security
 
 ---
 

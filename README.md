@@ -22,7 +22,7 @@ This repository contains a Cyber Security course vault set up with Quartz v4 for
 
 - Edit your markdown files in the `content/` directory
 - The site will automatically rebuild when using `npm run serve`
-- Your Obsidian vault content is in `content/Cyber Security/`
+- Your Obsidian vault content is in `content/cyber-security/`
 
 ## Configuration
 
@@ -86,7 +86,7 @@ Edit `quartz.layout.ts` to customize the page layout and components.
 .
 ├── content/                    # Your markdown content
 │   ├── index.md               # Home page
-│   └── Cyber Security/
+│   └── cyber-security/
 ├── quartz/                    # Quartz core files
 ├── docs/                      # Quartz documentation
 ├── public/                    # Generated static site (git-ignored)
